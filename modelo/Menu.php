@@ -1,7 +1,7 @@
 <?php
 
 class Menu extends BaseDatos {
-    // ATRIBUT0S-
+    // ATRIBUT0S----
     private $idMenu;
     private $meNombre;
     private $meDescripcion;
